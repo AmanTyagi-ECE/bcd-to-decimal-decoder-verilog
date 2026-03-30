@@ -1,4 +1,4 @@
-# 🔢 BCD to Decimal Decoder (SN74144) using Verilog 
+# 🔢 BCD to Decimal Decoder (SN74144) using Verilog – Vivado
 
 ## 📌 Overview
 
@@ -107,6 +107,7 @@ The design can be implemented on the RealDigital Boolean FPGA board for real-tim
 ## 👨‍💻 Author
 
 Aman Tyagi
+
 ---
 
 
