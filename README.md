@@ -1,5 +1,5 @@
 
-# 🔢 BCD to Decimal Decoder (SN74144) using Verilog – Vivado
+# 🔢 BCD to Decimal Decoder (SN74144) using Verilog 
 
 This project implements a BCD to Decimal Decoder using Verilog HDL in Vivado.
 
