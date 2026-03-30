@@ -60,7 +60,7 @@ results/    → Simulation and hardware outputs
 
 The waveform verifies correct decoding behavior where only one output is LOW for each input.
 
-![Simulation](results/simulation_waveform.png)
+![Simulation](results/simulation_waveform.png.png)
 
 ---
 
@@ -68,7 +68,7 @@ The waveform verifies correct decoding behavior where only one output is LOW for
 
 The RTL schematic generated in Vivado shows the internal logic implementation of the decoder.
 
-![RTL](results/rtl_schematic.png)
+![RTL](results/rtl_schematic.png.png)
 
 ---
 
@@ -76,7 +76,7 @@ The RTL schematic generated in Vivado shows the internal logic implementation of
 
 The design can be implemented on the RealDigital Boolean FPGA board for real-time verification.
 
-![FPGA](results/fpga_board.jpg)
+![FPGA](results/fpga_board.jpg.png)
 
 ---
 
